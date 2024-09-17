@@ -1,4 +1,4 @@
-# Biologically_Plausible_NN_Learning
+# Biologically Plausible NN Learning Rules
 Reserach project for Neuromatch Academy's NeuroAI Coursework
 
 ### Project Overview
